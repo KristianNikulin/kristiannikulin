@@ -1,6 +1,6 @@
-[![Header](https://github.com/KristianNikulin/kristiannikulin/blob/main/assets/header.png)]
+![Header](https://github.com/KristianNikulin/kristiannikulin/blob/main/assets/header.png)
 
-About me
+## I'm a student and also a beginner programmer
 
 Languages and Tools
 
