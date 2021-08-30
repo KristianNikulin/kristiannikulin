@@ -9,3 +9,8 @@
 ### My social networks :
 [![Vk](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/kristiannikulin)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/kristiannikulin)
+
+### My statistics :
+![Kristian Nikulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiannikulin&hide=prs&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiannikulin&layout=compact&theme=tokyonight)
