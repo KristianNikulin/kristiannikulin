@@ -1,6 +1,6 @@
-![Header](https://github.com/KristianNikulin/kristiannikulin/blob/main/assets/header.png)
+<!--![Header](https://github.com/KristianNikulin/kristiannikulin/blob/main/assets/header.png)-->
 
-## I'm a student and beginner programmer
+## Hello! I'm a student and beginner programmer
 
 ### Languages and Tools which I use :
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
