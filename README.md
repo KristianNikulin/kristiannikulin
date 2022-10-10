@@ -18,7 +18,7 @@
 <!-- tokyonight dark -->
 ### My statistics :
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiannikulin&layout=compact&theme=dark&border_color=3e3e3e&bg_color=101010&title_color=f0f0f0&text_color=2bbda2)
-![Leetcode Stats](https://leetcard.jacoblin.cool/kristiannikulin?theme=dark&width=500&height=190&border=1&radius=4.5&font=quicksand&animation=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kristiannikulin?theme=dark&width=500&height=190&border=1&radius=4.5&font=Montserrat&animation=true)
 <!-- &animation=false -->
 
 <!-- ![Kristian Nikulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiannikulin&include_all_commits=true&hide=prs,contribs&theme=tokyonight&show_icons=true) -->
