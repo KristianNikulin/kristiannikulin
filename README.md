@@ -3,10 +3,13 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=%231572B6)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![VSCode](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=%C76494)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05033)
+
+
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=%2F74C0)
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Platforms on which I code :
 ![CodeForces](https://img.shields.io/badge/-CodeForces-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAAzklEQVRIie2SMQ6CMBSGv7ZEJu9gIngHN72Bp2BwZXR3YvYcjGxexMQzmLhAUuoAGltIIKRO8k3t69%2F%2Fb14fzAwgxohWl%2BdZYFJg0ZYqILsfl6ehu3LcKyxz2nU65u6oAMf8TegzYDKBuYYRkgMY1ZSEpiYX%2B%2FLmJQBFgWFt%2FbckATY%2BAmRj3iH2YQ4Q%2BDJ67LaRkrXVal3L3FtAoHRh%2BO6GQSmdeJsi2%2FxD%2FPMxnQP%2BJKDqqZfOfrJGIkTmHFYgMkfY1QgsjenRGEcz08sLd9Ez%2BRMb2H4AAAAASUVORK5CYII%3D)
