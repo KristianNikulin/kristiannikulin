@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kristian <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Intern+Fullstack+Developer+👨‍💻&font=Fira%20Code&center=true&width=400&height=50" >
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Fullstack+Developer+👨‍💻&font=Fira%20Code&center=true&width=400&height=50" >
 </p>
 
 ### Languages
@@ -16,7 +16,7 @@
 
 ---
 
-### Libraries / Frameworks / Platforms
+### Libraries / Frameworks / Platforms / Databases
 
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=CA4245)
@@ -28,6 +28,10 @@
 ![Yarn](https://img.shields.io/badge/yarn-000000.svg?style=for-the-badge&logo=yarn&logoColor=%232C8EB)
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 
+![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/redis-000000.svg?style=for-the-badge&logo=redis&logoColor=%23DD0031)
+
 ---
 
 ### Developer / Forums
@@ -36,13 +40,6 @@
 ![YandexContest](https://img.shields.io/badge/-Контест-000000?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA2FBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgIDAwMEBAQICAgODg4UFBQWFhYfHx8gICAjIyMlJSUoKCgwMDA2NjY3Nzc6Ojo8PDxAQEBKSkpNTU1WVlZYWFhZWVllZWVnZ2dpaWlsbGx3d3d5eXl9fX2Dg4ORkZGWlpacnJyhoaGkpKSsrKyxsbG2tra9vb3BwcHGxsbd3d3f39%2Fm5ubq6urv7%2B%2F19fX5%2Bfn6%2Bvr7%2B%2Fv8%2FPz%2B%2Fv7%2F%2F%2F8w9YxfAAAAEXRSTlMAAQIGEThNUIGiqquytsv6%2FH63Vj4AAAEbSURBVHjabJIDtkQxDIavrf%2FZtq0xs%2F8VPU%2Bb5Mx31MZyGEGcpEWRJnHgzMGNyhr%2F1GXkan1YQVCFQu0lDRRN4lm9n2EOmW%2F8rV6Qz2IkMCwdnl9ens5%2ByX99Nv9Bm75pmzp%2BK3Vt%2FTuD4e3ugTVA9dNtBMMHXQArzADRt0FpfhvT3pIyKL%2FnW5vfCb1BGdSBE9vfFT1rA8S8x3N61QZInNR%2BDqi7oA1Sp7CfxQ6da4OCG%2BBoPLrb3VMGKRjHXSJSKRJwbuj9WhUZg7Han2zrNoMalnt60oPio8bWcLSpRy2W9UKPelli3fvT4bo0qFxxMC16gDBoQnFyXxPV1pYApTptDbgfiU20DMzcWOWZCWUcAlmP2MxLMPsDAKTMRXbZsH%2BmAAAAAElFTkSuQmCC)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/KristianNikulin/)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=ff0000)](https://www.codewars.com/users/KristianNikulin)
-
----
-
-### My social networks
-
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/KristianNikulin)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/kristiannikulin)
 
 ---
 
